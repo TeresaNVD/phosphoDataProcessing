@@ -1,0 +1,175 @@
+RXRXX[pS/pT][F/L]	Akt kinase substrate motif
+RXRXX[pS/pT]	Akt kinase substrate motif
+GRART[S/T]pSFAE	Akt kinase substrate motif
+[R/Q/K][R/K/N/Q/P/H][R/K][R/S/T][N/K/Q/H/D/P]pS[F/W/I/M/N/S][S/T/H][R/S/K][S/T/P/Q]	Akt kinase substrate motif
+[R/K]X[R/K][S/T]XpS	Akt kinase substrate motif
+[M/V/L/I/F][R/K/H]XXX[pS/pT]XXX[M/V/L/I/F]	AMP-activated protein kinase substrate motif
+[M/V/L/I]XX[R/K/H]X[pS/pT]XXX[M/V/L/I]	AMP-activated protein kinase substrate motif
+[M/V/L/I/F][R/K/H]XX[pS/pT]XXX[M/V/L/I/F]	AMP-activated protein kinase substrate motif
+[R/K]XRXXpSXXX[R/K]	AMP-activated protein kinase 2 substrate motif
+[P/L/I/M]X[L/I/D/E]pSQ	ATM kinase substrate motif
+LpSQE	ATM kinase substrate motif
+pSQ	ATM kinase substrate motif
+[R/K/N]RX[pS/pT][M/L/V/I]	Aurora-A kinase substrate motif
+[D/E][pS/pT]XXX 	b-Adrenergic Receptor kinase substrate motif
+HpSTSDD 	Branched chain alpha-ketoacid dehydrogenase kinase substrate motif
+YRpSVDE	Branched chain alpha-ketoacid dehydrogenase kinase substrate motif
+[M/V/L/I/F]XRXX[pS/pT]XXX[M/V/L/I/F]	Calmodulin-dependent protein kinase I substrate motif
+[M/I/L/V/F/Y]XRXX[pS/pT][M/I/L/V/F/Y]	Calmodulin-dependent protein kinase II alpha substrate motif
+RXX[pS/pT]	Calmodulin-dependent protein kinase II substrate motif
+[K/F][R/K][Q/M][Q/M/K/L/F]pS[F/I/M/L/V][D/E/I][L/M/K/I][F/K]	Calmodulin-dependent protein kinase II substrate motif
+[M/V/L/I/F]X[R/K]XX[pS/pT]XX	Calmodulin-dependent protein kinase II substrate motif
+RXXpS	Calmodulin-dependent protein kinase II substrate motif
+VPGKARKKpSSCQLL	Calmodulin-dependent protein kinase IV substrate motif
+PLARTLpSVAGLP	Calmodulin-dependent protein kinase IV substrate motif
+[M/I/L/V/F/Y]XRXX[pS/pT]	Calmodulin-dependent protein kinase IV substrate motif
+E[F/E]D[T/A/G]GpSI[I/F/Y/G][I/G/F][F/G][F/P/L]	Casein Kinase I delta substrate motif
+Y[Y/E][D/Y][A/D][A/G]pSI[I/Y/F/G][I/G/F][F/G][F/P/L]	Casein Kinase I gamma substrate motif
+pS*PXX[pS/pT]	Casein Kinase I substrate motif
+[D/E]XX[pS/pT]	Casein Kinase I substrate motif
+[pS/pT]XX[S/T]	Casein Kinase I substrate motif
+[pS/pT]XXX[S/T][M/L/V/I/F]	Casein Kinase I substrate motif
+[E/D/A][D/E][E/D][E/D]pS[E/D/A][D/E/A][E/D][E/D]	Casein Kinase II substrate motif
+pS*X[E/pS/pT]	Casein Kinase II substrate motif
+pS*XX[E/pS/pT]	Casein Kinase II substrate motif
+[pS/pT]XX[E/D]	Casein Kinase II substrate motif
+pSDXE	Casein kinase II substrate motif
+pSXX[E/D]	Casein kinase II substrate motif
+pS[D/E]X[D/E]X[D/E]	Casein Kinase II substrate motif
+[D/E]pS[D/E]X[D/E]	Casein Kinase II substrate motif
+pS[D/E][D/E][D/E]	Casein Kinase II substrate motif
+[pS/pT]XX[D/E]	Casein Kinase II substrate motif 
+[pS/pT]*XX[E/D/pS/pY]	Casein Kinase II substrate motif 
+[S/E/P/G][D/S/N/E/P][E/D/G/Q/W][Y/E/D/S/W/T][W/E/D]pS[D/E][D/E/W/N][E/D][E/D/N/Q]	Casein Kinase II substrate motif 
+[R/K]pSP[R/P][R/K/H]	Cdc2 kinase substrate motif
+[pS/pT]PX[R/K]	Cdc2 kinase substrate motif
+HHH[R/K]pSPR[R/K]R	Cdc2 kinase substrate motif
+PX[pS/pT]PKKXKK	Cdc2 like protein kinase substrate motif
+[pS/pT]PX[R/K]	CDK1,2, 4, 6 kinase substrate motif
+pSPX[R/K]X	CDK kinase substrate motif
+PL[pS/pT]PIP[K/R/H]	CDK4 kinase substrate motif
+PL[pS/pT]PX[K/R/H] 	CDK4 kinase substrate motif
+pTPXK	CDK5 kinase substrate motif
+[K/H/G]H[H/P][K/G/H]pSP[R/K][H/R/K][R/H/K]	CDK5 kinase substrate motif
+[pS/pT]PG[pS/pT]PGTP	CDK5 kinase substrate motif
+[M/I/L/V]X[R/K]XX[pS/pT]	Chk1 kinase substrate motif
+RXX[pS/pT]XXR	CLK1 kinase substrate motif
+[R/K]X[R/K]X[R/K]XpSXXR	CLK1,2 kinase substrate motif
+R[R/H][R/H][R/E]RE[R/H]pSR[R/D]L	CLK2 kinase substrate motif
+KKXRRpT[L/V]X	DMPK1 kinase substrate motif
+KKRXRpT[L/V]X	DMPK1 kinase substrate motif
+[R/K]XRRX[pS/pT][L/V]X	DMPK1 kinase substrate motif
+RXX[pS/pT][L/V]R	DMPK1,2 kinase substrate motif
+XpSQ	DNA dependent Protein kinase substrate motif
+P[pS/pT]X	DNA dependent Protein kinase substrate motif
+R[R/K]R[E/R]R[E/A][H/R]pSRR[R/D][L/E]	DOA/CDC-like kinase 2 substrate motif
+[I/L/V/F/M]RRXX[pS/pT][I/L/M/V/F]	Doublecortin kinase-1 kinase substrate motif
+EXpSXRXXR	elF2 alpha kinase substrate motif
+[T/P/S][G/P/E/Y][P/L/I][L/M/P]pSP[G/P/F][P/F/G/Y][F/Y/I]	ERK1 kinase substrate motif
+pTEpY	ERK1 Kinase substrate motif
+PX[pS/pT]PP	ERK1,2 kinase substrate motif
+XXPX[pS/pT]PPPX	ERK1,2 kinase substrate motif
+PX[pS/pT]P	ERK1, ERK2 Kinase substrate motif
+pSP	ERK1, ERK2 Kinase substrate motif
+KpSPP	ERK1, ERK2, SAPK, CDK5 and GSK3 kinase substrate motif
+[D/Y/W/E][C][P/S/C/E][P/C/S/L/T/V][L/M/T]pS[P/A][T/S/G/R/C/F][W/P/S][W/F]	ERK2 kinase substrate motif
+XX[pS/pT]E	G protein-coupled receptor kinase 1 substrate motif
+X[pS/pT]XXX[A/P/S/T] 	G protein-coupled receptor kinase 1 substrate motif
+[pS/pT]PX[K/R]	Growth associated histone HI kinase substrate motif
+[K/R][pS/pT]P	Growth associated histone HI kinase substrate motif
+[pS/pT]P[K/R]	Growth associated histone HI kinase substrate motif
+pS*XXXpS	GSK3 kinase substrate motif
+PXpTP	GSK3, Erk1, Erk2 and CDK5 kinase motif
+RXXpSPV	GSK-3, ERK1, ERK2, CDK5 substrate motif
+K[pS/pT]PXK	GSK-3, ERK1, ERK2, CDK5 substrate motif
+KpSPXXXK	GSK-3, ERK1, ERK2, CDK5 substrate motif
+KpSPXXK	GSK-3, ERK1, ERK2, CDK5 substrate motif
+KpSPXXXXK	GSK-3, ERK1, ERK2, CDK5 substrate motif
+KpTPAKEE	GSK-3, ERK1, ERK2, CDK5 substrate motif
+PXpSP	GSK-3, ERK1, ERK2, CDK5 substrate motif
+X[pS/pT]P	GSK-3, ERK1, ERK2, CDK5 substrate motif
+XXpSP	GSK-3, ERK1, ERK2, CDK5 substrate motif
+[M/L/V/I/F][R/K/H]XXSXXX[M/L/V/I/F]	HMGCoA Reductase kinase substrate motif
+GP[Q/M]pSPI	JNK1 Kinase substrate motif
+LRpT	LKB1 Kinase substrate motif
+[R/K]XRXXpS	MAPKAPK1 kinase substrate motif
+RRRXpS	MAPKAPK1 kinase substrate motif
+[L/F/I]XXXR[Q/S/T]L[[pS/pT][M/L/I/V]	MAPKAPK2 kinase substrate motif
+XXBXRXXpSXX	MAPKAPK2 kinase substrate motif
+pSXXX[pS/pT]	MAPKAPK2 kinase substrate motif
+pT*[G/P/E]pY	MAPK 11,13,14 Kinase substrate motif
+RRFGpSBRRF	MEKK kinase substrate motif
+RRFGpS[M/L/V/I/F]RR[M/L/V/I/F]	MEKK kinase substrate motif
+KKRXXpSX[R/K][R/K]	MLCK kinase substrate motif
+FpTY	mTOR kinase substrate motif
+IRRLpSTRRR	Nek 2 kinase substrate motif
+[R/N][F/L/M][R/K][R/K]pS[R/I/V/M][R/I/M/V][M/I/F/V][I/F/M]	NIMA kinase substrate motif
+FRX[pS/pT]	NIMA kinase substrate motif
+RF[R/K][R/K]pS[R/I][R/I]MI	NIMA kinase substrate motif
+[R/K]XRXX[pS/pT][M/L/V/I]	p70 Ribosomal S6 kinase substrate motif
+VFLGFpTYVAP	p70 Ribosomal S6 kinase substrate motif
+AKRRRLSpSLRA	PAK1 kinase substrate motif
+VRKRpTLRRL	PAK1 kinase substrate motif
+[R/K][R/X]X[pS/pT]	PAK2 kinase substrate motif
+FXXF[pS/pT][F/Y]	PDK1 kinase substrate motif
+KRKQIpSVR	Phosphorylase kinase substrate motif
+[F/M/K][R/K][M/R/Q/F][M/F/L/I]pS[F/I/M/L][F/R/K][L/I][F/L/I]	Phosphorylase kinase substrate motif
+[K/R]XXpS[V/I]	Phosphorylase kinase substrate motif
+[R/K][R/K][R/K]X[pS/pT]X	Pim1 kinase substrate sequence
+[R/K][R/K/A/Q/P][R/K][R/Q/H/N/Y][P/H/K]pS[G/S/T][P/S/G/Q/H/S/T][S/P/Q/G/D][T/S/P/G]	Pim2 kinase substrate sequence
+RRXpS[M/I/L/V/F/Y]	PKA kinase substrate motif
+RXpS	PKA kinase substrate motif
+KRXXpS	PKA kinase substrate motif
+RXXpS	PKA kinase substrate motif
+[R/K]X[pS/pT]	PKA kinase substrate motif
+KXX[pS/pT]	PKA kinase substrate motif
+[R/K][R/K]X[pS/pT]	PKA kinase substrate motif
+KXXX[pS/pT]	PKA kinase substrate motif
+[pS/pT]X[R/K]	PKA kinase substrate motif
+RRRRpSIIFI	PKA kinase substrate motif
+RRXpS	PKA kinase substrate motif
+R[R/K]X[pS/pT][I/L/V/F/Y][D/C/X]XD	PKA kinase substrate motif
+RRXpS	PKA kinase substrate motif
+RRR[R/N]pSII[F/D]	PKA kinase substrate motif
+[R/C/P/K][R/A/P][R/K][R/K/S][N/L/S/M/P]Ps[I/L/V/C][S/P/H/Q][S/W/Q][S/L/G]	PKA kinase substrate motif
+R[R/K]X[pS/pT]B	PKA, PKG kinase substrate motif
+ARKGpSLRQ	PKC alpha kinase substrate motif
+R[R/F]RR[R/K]GpSF[R/K][R/K]	PKC alpha kinase substrate motif
+[L/R/F][R/K]R[K/Q]GpS[F/M]KKXA	PKC beta kinase substrate motif
+RXRKGpSF	PKC delta kinase substrate motif
+KRQGpSVRR	PKC epsilon kinase substrate motif
+R[K/E/R]XpS	PKC epsilon kinase substrate motif
+ARXXR[R/K]RpSFRR	PKC eta kinase substrate motif
+FXXF[pS/pT][F/Y]	PKC family kinase substrate motif
+RRRK[G/K]SF[R/K][R/K]KA	PKC gamma kinase substrate motif
+XRXX[pS/pT]XRX	PKC kinase substrate motif
+[pS/pT]X[R/K]	PKC kinase substrate motif
+[R/K]XX[pS/pT]	PKC kinase substrate motif
+[R/K]XX[pS/pT]X[R/K]	PKC kinase substrate motif
+[K/R]X[pS/pT]	PKC kinase substrate motif
+[R/K]X[pS/pT]X[R/K]	PKC kinase substrate motif
+[L/V][V/L/A]R[Q/K/E]MpS	PKC mu kinase substrate motif
+[R/F/W/M][W/A/K/S][R/S/K/H][R/H/S/Q][R/K/N/P/G/Q]pS[I/F/R/V/K/S/L/M][K/M/R/S/T][R/S/K/W][R/K/G]	PKC theta kinase substrate motif
+FXRXXpS[F/M][F/M]	PKC zeta kinase substrate motif
+[L/V/I][R/K/Q][R/K][R/K/T/Q/M][N/K/R/L/M/H]pS[F/W/I/M/L/V][S/N][R/S/P/Y/W][S/R/N/L]	PKD kinase substrate motif
+R[R/K]X[pS/pT]B	PKG kinase substrate motif
+RXX[pS/pT]XRXXR	PKR kinase substrate motif
+[D/E]X[pS/pT][I/L/V/M]X[D/E]	Plk1 kinase substrate motif
+XpSXXDXX	Pyruvate dehydrogenase kinase substrate motif
+PLpTLP	RAF1 kinase substrate motif
+PLLpTP	RAF1 kinase substrate motif
+PLpTP	RAF1 kinase substrate motif
+PpTLP	RAF1 kinase substrate motif
+PLpTLP	RAF1 kinase substrate motif
+PpTLP	RAF1 kinase substrate motif
+LpTP	RAF1 kinase substrate motif
+KKKKKK[pS/pT]XXX	TGF beta receptor kinase substrate motif
+[R/K/Q/N][M/C/W][R/T/S/N][E/D/S/N][R/K/E/D/N]pS[S/D/E][S/GC/D][SM/R/N][N/H/S/R/C]	TGF beta receptor kinase substrate motif
+RRXXpS	ZIP kinase substrate motif
+KRXRpS	ZIP kinase substrate motif
+KRRXpT	ZIP kinase substrate motif
+pTEY	Dual specificity protein phosphatase 1 substrate motif
+pT*XpY	Dual specificity protein phosphatase 6 substrate motif
+RRA[pS/pT]VA	PP2A, PP2C substrate motif
+XRXXpSVA	PP2B substrate motif
+XpT*XpYX	PP2C delta substrate motif

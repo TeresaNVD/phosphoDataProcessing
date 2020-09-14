@@ -1,0 +1,788 @@
+1	Proteins
+2	Positions within proteins
+3	Leading proteins
+4	Protein
+5	Protein names
+6	Gene names
+7	Fasta headers
+8	Localization prob
+9	Score diff
+10	PEP
+11	Score
+12	Delta score
+13	Score for localization
+14	Localization prob HeLa_CX_1h_R1
+15	Score diff HeLa_CX_1h_R1
+16	PEP HeLa_CX_1h_R1
+17	Score HeLa_CX_1h_R1
+18	Localization prob HeLa_CX_1h_R2
+19	Score diff HeLa_CX_1h_R2
+20	PEP HeLa_CX_1h_R2
+21	Score HeLa_CX_1h_R2
+22	Localization prob HeLa_CX_1h_R3
+23	Score diff HeLa_CX_1h_R3
+24	PEP HeLa_CX_1h_R3
+25	Score HeLa_CX_1h_R3
+26	Localization prob HeLa_CX_1h_R4
+27	Score diff HeLa_CX_1h_R4
+28	PEP HeLa_CX_1h_R4
+29	Score HeLa_CX_1h_R4
+30	Localization prob HeLa_CX_1h_R5
+31	Score diff HeLa_CX_1h_R5
+32	PEP HeLa_CX_1h_R5
+33	Score HeLa_CX_1h_R5
+34	Localization prob HeLa_CX_1h_R6
+35	Score diff HeLa_CX_1h_R6
+36	PEP HeLa_CX_1h_R6
+37	Score HeLa_CX_1h_R6
+38	Localization prob HeLa_CX_2h_R1
+39	Score diff HeLa_CX_2h_R1
+40	PEP HeLa_CX_2h_R1
+41	Score HeLa_CX_2h_R1
+42	Localization prob HeLa_CX_2h_R2
+43	Score diff HeLa_CX_2h_R2
+44	PEP HeLa_CX_2h_R2
+45	Score HeLa_CX_2h_R2
+46	Localization prob HeLa_CX_2h_R3
+47	Score diff HeLa_CX_2h_R3
+48	PEP HeLa_CX_2h_R3
+49	Score HeLa_CX_2h_R3
+50	Localization prob HeLa_CX_2h_R4
+51	Score diff HeLa_CX_2h_R4
+52	PEP HeLa_CX_2h_R4
+53	Score HeLa_CX_2h_R4
+54	Localization prob HeLa_CX_2h_R5
+55	Score diff HeLa_CX_2h_R5
+56	PEP HeLa_CX_2h_R5
+57	Score HeLa_CX_2h_R5
+58	Localization prob HeLa_CX_2h_R6
+59	Score diff HeLa_CX_2h_R6
+60	PEP HeLa_CX_2h_R6
+61	Score HeLa_CX_2h_R6
+62	Localization prob HeLa_CX_3h_R1
+63	Score diff HeLa_CX_3h_R1
+64	PEP HeLa_CX_3h_R1
+65	Score HeLa_CX_3h_R1
+66	Localization prob HeLa_CX_3h_R2
+67	Score diff HeLa_CX_3h_R2
+68	PEP HeLa_CX_3h_R2
+69	Score HeLa_CX_3h_R2
+70	Localization prob HeLa_CX_3h_R3
+71	Score diff HeLa_CX_3h_R3
+72	PEP HeLa_CX_3h_R3
+73	Score HeLa_CX_3h_R3
+74	Localization prob HeLa_CX_3h_R4
+75	Score diff HeLa_CX_3h_R4
+76	PEP HeLa_CX_3h_R4
+77	Score HeLa_CX_3h_R4
+78	Localization prob HeLa_CX_3h_R5
+79	Score diff HeLa_CX_3h_R5
+80	PEP HeLa_CX_3h_R5
+81	Score HeLa_CX_3h_R5
+82	Localization prob HeLa_CX_3h_R6
+83	Score diff HeLa_CX_3h_R6
+84	PEP HeLa_CX_3h_R6
+85	Score HeLa_CX_3h_R6
+86	Localization prob HeLa_CX_4h_R1
+87	Score diff HeLa_CX_4h_R1
+88	PEP HeLa_CX_4h_R1
+89	Score HeLa_CX_4h_R1
+90	Localization prob HeLa_CX_4h_R2
+91	Score diff HeLa_CX_4h_R2
+92	PEP HeLa_CX_4h_R2
+93	Score HeLa_CX_4h_R2
+94	Localization prob HeLa_CX_4h_R3
+95	Score diff HeLa_CX_4h_R3
+96	PEP HeLa_CX_4h_R3
+97	Score HeLa_CX_4h_R3
+98	Localization prob HeLa_CX_4h_R4
+99	Score diff HeLa_CX_4h_R4
+100	PEP HeLa_CX_4h_R4
+101	Score HeLa_CX_4h_R4
+102	Localization prob HeLa_CX_4h_R5
+103	Score diff HeLa_CX_4h_R5
+104	PEP HeLa_CX_4h_R5
+105	Score HeLa_CX_4h_R5
+106	Localization prob HeLa_CX_4h_R6
+107	Score diff HeLa_CX_4h_R6
+108	PEP HeLa_CX_4h_R6
+109	Score HeLa_CX_4h_R6
+110	Diagnostic peak
+111	Number of Phospho (STY)
+112	Amino acid
+113	Sequence window
+114	Modification window
+115	Peptide window coverage
+116	Phospho (STY) Probabilities
+117	Phospho (STY) Score diffs
+118	Position in peptide
+119	Charge
+120	Mass error [ppm]
+121	Identification type HeLa_CX_1h_R1
+122	Identification type HeLa_CX_1h_R2
+123	Identification type HeLa_CX_1h_R3
+124	Identification type HeLa_CX_1h_R4
+125	Identification type HeLa_CX_1h_R5
+126	Identification type HeLa_CX_1h_R6
+127	Identification type HeLa_CX_2h_R1
+128	Identification type HeLa_CX_2h_R2
+129	Identification type HeLa_CX_2h_R3
+130	Identification type HeLa_CX_2h_R4
+131	Identification type HeLa_CX_2h_R5
+132	Identification type HeLa_CX_2h_R6
+133	Identification type HeLa_CX_3h_R1
+134	Identification type HeLa_CX_3h_R2
+135	Identification type HeLa_CX_3h_R3
+136	Identification type HeLa_CX_3h_R4
+137	Identification type HeLa_CX_3h_R5
+138	Identification type HeLa_CX_3h_R6
+139	Identification type HeLa_CX_4h_R1
+140	Identification type HeLa_CX_4h_R2
+141	Identification type HeLa_CX_4h_R3
+142	Identification type HeLa_CX_4h_R4
+143	Identification type HeLa_CX_4h_R5
+144	Identification type HeLa_CX_4h_R6
+145	Ratio H/L
+146	Ratio H/L___1
+147	Ratio H/L___2
+148	Ratio H/L___3
+149	Ratio H/L normalized
+150	Ratio H/L normalized___1
+151	Ratio H/L normalized___2
+152	Ratio H/L normalized___3
+153	Ratio H/L unmod. pep.
+154	Ratio H/L localized
+155	Ratio H/L nmods
+156	Ratio H/L variability [%]
+157	Ratio H/L count
+158	Ratio H/L iso-count
+159	Ratio H/L type
+160	Occupancy L
+161	Occupancy H
+162	Ratio H/L HeLa_CX_1h_R1
+163	Ratio H/L HeLa_CX_1h_R1___1
+164	Ratio H/L HeLa_CX_1h_R1___2
+165	Ratio H/L HeLa_CX_1h_R1___3
+166	Ratio H/L normalized HeLa_CX_1h_R1
+167	Ratio H/L normalized HeLa_CX_1h_R1___1
+168	Ratio H/L normalized HeLa_CX_1h_R1___2
+169	Ratio H/L normalized HeLa_CX_1h_R1___3
+170	Ratio H/L unmod. pep. HeLa_CX_1h_R1
+171	Ratio H/L localized HeLa_CX_1h_R1
+172	Ratio H/L nmods HeLa_CX_1h_R1
+173	Ratio H/L variability [%] HeLa_CX_1h_R1
+174	Ratio H/L count HeLa_CX_1h_R1
+175	Ratio H/L iso-count HeLa_CX_1h_R1
+176	Ratio H/L type HeLa_CX_1h_R1
+177	Occupancy L HeLa_CX_1h_R1
+178	Occupancy H HeLa_CX_1h_R1
+179	Ratio H/L HeLa_CX_1h_R2
+180	Ratio H/L HeLa_CX_1h_R2___1
+181	Ratio H/L HeLa_CX_1h_R2___2
+182	Ratio H/L HeLa_CX_1h_R2___3
+183	Ratio H/L normalized HeLa_CX_1h_R2
+184	Ratio H/L normalized HeLa_CX_1h_R2___1
+185	Ratio H/L normalized HeLa_CX_1h_R2___2
+186	Ratio H/L normalized HeLa_CX_1h_R2___3
+187	Ratio H/L unmod. pep. HeLa_CX_1h_R2
+188	Ratio H/L localized HeLa_CX_1h_R2
+189	Ratio H/L nmods HeLa_CX_1h_R2
+190	Ratio H/L variability [%] HeLa_CX_1h_R2
+191	Ratio H/L count HeLa_CX_1h_R2
+192	Ratio H/L iso-count HeLa_CX_1h_R2
+193	Ratio H/L type HeLa_CX_1h_R2
+194	Occupancy L HeLa_CX_1h_R2
+195	Occupancy H HeLa_CX_1h_R2
+196	Ratio H/L HeLa_CX_1h_R3
+197	Ratio H/L HeLa_CX_1h_R3___1
+198	Ratio H/L HeLa_CX_1h_R3___2
+199	Ratio H/L HeLa_CX_1h_R3___3
+200	Ratio H/L normalized HeLa_CX_1h_R3
+201	Ratio H/L normalized HeLa_CX_1h_R3___1
+202	Ratio H/L normalized HeLa_CX_1h_R3___2
+203	Ratio H/L normalized HeLa_CX_1h_R3___3
+204	Ratio H/L unmod. pep. HeLa_CX_1h_R3
+205	Ratio H/L localized HeLa_CX_1h_R3
+206	Ratio H/L nmods HeLa_CX_1h_R3
+207	Ratio H/L variability [%] HeLa_CX_1h_R3
+208	Ratio H/L count HeLa_CX_1h_R3
+209	Ratio H/L iso-count HeLa_CX_1h_R3
+210	Ratio H/L type HeLa_CX_1h_R3
+211	Occupancy L HeLa_CX_1h_R3
+212	Occupancy H HeLa_CX_1h_R3
+213	Ratio H/L HeLa_CX_1h_R4
+214	Ratio H/L HeLa_CX_1h_R4___1
+215	Ratio H/L HeLa_CX_1h_R4___2
+216	Ratio H/L HeLa_CX_1h_R4___3
+217	Ratio H/L normalized HeLa_CX_1h_R4
+218	Ratio H/L normalized HeLa_CX_1h_R4___1
+219	Ratio H/L normalized HeLa_CX_1h_R4___2
+220	Ratio H/L normalized HeLa_CX_1h_R4___3
+221	Ratio H/L unmod. pep. HeLa_CX_1h_R4
+222	Ratio H/L localized HeLa_CX_1h_R4
+223	Ratio H/L nmods HeLa_CX_1h_R4
+224	Ratio H/L variability [%] HeLa_CX_1h_R4
+225	Ratio H/L count HeLa_CX_1h_R4
+226	Ratio H/L iso-count HeLa_CX_1h_R4
+227	Ratio H/L type HeLa_CX_1h_R4
+228	Occupancy L HeLa_CX_1h_R4
+229	Occupancy H HeLa_CX_1h_R4
+230	Ratio H/L HeLa_CX_1h_R5
+231	Ratio H/L HeLa_CX_1h_R5___1
+232	Ratio H/L HeLa_CX_1h_R5___2
+233	Ratio H/L HeLa_CX_1h_R5___3
+234	Ratio H/L normalized HeLa_CX_1h_R5
+235	Ratio H/L normalized HeLa_CX_1h_R5___1
+236	Ratio H/L normalized HeLa_CX_1h_R5___2
+237	Ratio H/L normalized HeLa_CX_1h_R5___3
+238	Ratio H/L unmod. pep. HeLa_CX_1h_R5
+239	Ratio H/L localized HeLa_CX_1h_R5
+240	Ratio H/L nmods HeLa_CX_1h_R5
+241	Ratio H/L variability [%] HeLa_CX_1h_R5
+242	Ratio H/L count HeLa_CX_1h_R5
+243	Ratio H/L iso-count HeLa_CX_1h_R5
+244	Ratio H/L type HeLa_CX_1h_R5
+245	Occupancy L HeLa_CX_1h_R5
+246	Occupancy H HeLa_CX_1h_R5
+247	Ratio H/L HeLa_CX_1h_R6
+248	Ratio H/L HeLa_CX_1h_R6___1
+249	Ratio H/L HeLa_CX_1h_R6___2
+250	Ratio H/L HeLa_CX_1h_R6___3
+251	Ratio H/L normalized HeLa_CX_1h_R6
+252	Ratio H/L normalized HeLa_CX_1h_R6___1
+253	Ratio H/L normalized HeLa_CX_1h_R6___2
+254	Ratio H/L normalized HeLa_CX_1h_R6___3
+255	Ratio H/L unmod. pep. HeLa_CX_1h_R6
+256	Ratio H/L localized HeLa_CX_1h_R6
+257	Ratio H/L nmods HeLa_CX_1h_R6
+258	Ratio H/L variability [%] HeLa_CX_1h_R6
+259	Ratio H/L count HeLa_CX_1h_R6
+260	Ratio H/L iso-count HeLa_CX_1h_R6
+261	Ratio H/L type HeLa_CX_1h_R6
+262	Occupancy L HeLa_CX_1h_R6
+263	Occupancy H HeLa_CX_1h_R6
+264	Ratio H/L HeLa_CX_2h_R1
+265	Ratio H/L HeLa_CX_2h_R1___1
+266	Ratio H/L HeLa_CX_2h_R1___2
+267	Ratio H/L HeLa_CX_2h_R1___3
+268	Ratio H/L normalized HeLa_CX_2h_R1
+269	Ratio H/L normalized HeLa_CX_2h_R1___1
+270	Ratio H/L normalized HeLa_CX_2h_R1___2
+271	Ratio H/L normalized HeLa_CX_2h_R1___3
+272	Ratio H/L unmod. pep. HeLa_CX_2h_R1
+273	Ratio H/L localized HeLa_CX_2h_R1
+274	Ratio H/L nmods HeLa_CX_2h_R1
+275	Ratio H/L variability [%] HeLa_CX_2h_R1
+276	Ratio H/L count HeLa_CX_2h_R1
+277	Ratio H/L iso-count HeLa_CX_2h_R1
+278	Ratio H/L type HeLa_CX_2h_R1
+279	Occupancy L HeLa_CX_2h_R1
+280	Occupancy H HeLa_CX_2h_R1
+281	Ratio H/L HeLa_CX_2h_R2
+282	Ratio H/L HeLa_CX_2h_R2___1
+283	Ratio H/L HeLa_CX_2h_R2___2
+284	Ratio H/L HeLa_CX_2h_R2___3
+285	Ratio H/L normalized HeLa_CX_2h_R2
+286	Ratio H/L normalized HeLa_CX_2h_R2___1
+287	Ratio H/L normalized HeLa_CX_2h_R2___2
+288	Ratio H/L normalized HeLa_CX_2h_R2___3
+289	Ratio H/L unmod. pep. HeLa_CX_2h_R2
+290	Ratio H/L localized HeLa_CX_2h_R2
+291	Ratio H/L nmods HeLa_CX_2h_R2
+292	Ratio H/L variability [%] HeLa_CX_2h_R2
+293	Ratio H/L count HeLa_CX_2h_R2
+294	Ratio H/L iso-count HeLa_CX_2h_R2
+295	Ratio H/L type HeLa_CX_2h_R2
+296	Occupancy L HeLa_CX_2h_R2
+297	Occupancy H HeLa_CX_2h_R2
+298	Ratio H/L HeLa_CX_2h_R3
+299	Ratio H/L HeLa_CX_2h_R3___1
+300	Ratio H/L HeLa_CX_2h_R3___2
+301	Ratio H/L HeLa_CX_2h_R3___3
+302	Ratio H/L normalized HeLa_CX_2h_R3
+303	Ratio H/L normalized HeLa_CX_2h_R3___1
+304	Ratio H/L normalized HeLa_CX_2h_R3___2
+305	Ratio H/L normalized HeLa_CX_2h_R3___3
+306	Ratio H/L unmod. pep. HeLa_CX_2h_R3
+307	Ratio H/L localized HeLa_CX_2h_R3
+308	Ratio H/L nmods HeLa_CX_2h_R3
+309	Ratio H/L variability [%] HeLa_CX_2h_R3
+310	Ratio H/L count HeLa_CX_2h_R3
+311	Ratio H/L iso-count HeLa_CX_2h_R3
+312	Ratio H/L type HeLa_CX_2h_R3
+313	Occupancy L HeLa_CX_2h_R3
+314	Occupancy H HeLa_CX_2h_R3
+315	Ratio H/L HeLa_CX_2h_R4
+316	Ratio H/L HeLa_CX_2h_R4___1
+317	Ratio H/L HeLa_CX_2h_R4___2
+318	Ratio H/L HeLa_CX_2h_R4___3
+319	Ratio H/L normalized HeLa_CX_2h_R4
+320	Ratio H/L normalized HeLa_CX_2h_R4___1
+321	Ratio H/L normalized HeLa_CX_2h_R4___2
+322	Ratio H/L normalized HeLa_CX_2h_R4___3
+323	Ratio H/L unmod. pep. HeLa_CX_2h_R4
+324	Ratio H/L localized HeLa_CX_2h_R4
+325	Ratio H/L nmods HeLa_CX_2h_R4
+326	Ratio H/L variability [%] HeLa_CX_2h_R4
+327	Ratio H/L count HeLa_CX_2h_R4
+328	Ratio H/L iso-count HeLa_CX_2h_R4
+329	Ratio H/L type HeLa_CX_2h_R4
+330	Occupancy L HeLa_CX_2h_R4
+331	Occupancy H HeLa_CX_2h_R4
+332	Ratio H/L HeLa_CX_2h_R5
+333	Ratio H/L HeLa_CX_2h_R5___1
+334	Ratio H/L HeLa_CX_2h_R5___2
+335	Ratio H/L HeLa_CX_2h_R5___3
+336	Ratio H/L normalized HeLa_CX_2h_R5
+337	Ratio H/L normalized HeLa_CX_2h_R5___1
+338	Ratio H/L normalized HeLa_CX_2h_R5___2
+339	Ratio H/L normalized HeLa_CX_2h_R5___3
+340	Ratio H/L unmod. pep. HeLa_CX_2h_R5
+341	Ratio H/L localized HeLa_CX_2h_R5
+342	Ratio H/L nmods HeLa_CX_2h_R5
+343	Ratio H/L variability [%] HeLa_CX_2h_R5
+344	Ratio H/L count HeLa_CX_2h_R5
+345	Ratio H/L iso-count HeLa_CX_2h_R5
+346	Ratio H/L type HeLa_CX_2h_R5
+347	Occupancy L HeLa_CX_2h_R5
+348	Occupancy H HeLa_CX_2h_R5
+349	Ratio H/L HeLa_CX_2h_R6
+350	Ratio H/L HeLa_CX_2h_R6___1
+351	Ratio H/L HeLa_CX_2h_R6___2
+352	Ratio H/L HeLa_CX_2h_R6___3
+353	Ratio H/L normalized HeLa_CX_2h_R6
+354	Ratio H/L normalized HeLa_CX_2h_R6___1
+355	Ratio H/L normalized HeLa_CX_2h_R6___2
+356	Ratio H/L normalized HeLa_CX_2h_R6___3
+357	Ratio H/L unmod. pep. HeLa_CX_2h_R6
+358	Ratio H/L localized HeLa_CX_2h_R6
+359	Ratio H/L nmods HeLa_CX_2h_R6
+360	Ratio H/L variability [%] HeLa_CX_2h_R6
+361	Ratio H/L count HeLa_CX_2h_R6
+362	Ratio H/L iso-count HeLa_CX_2h_R6
+363	Ratio H/L type HeLa_CX_2h_R6
+364	Occupancy L HeLa_CX_2h_R6
+365	Occupancy H HeLa_CX_2h_R6
+366	Ratio H/L HeLa_CX_3h_R1
+367	Ratio H/L HeLa_CX_3h_R1___1
+368	Ratio H/L HeLa_CX_3h_R1___2
+369	Ratio H/L HeLa_CX_3h_R1___3
+370	Ratio H/L normalized HeLa_CX_3h_R1
+371	Ratio H/L normalized HeLa_CX_3h_R1___1
+372	Ratio H/L normalized HeLa_CX_3h_R1___2
+373	Ratio H/L normalized HeLa_CX_3h_R1___3
+374	Ratio H/L unmod. pep. HeLa_CX_3h_R1
+375	Ratio H/L localized HeLa_CX_3h_R1
+376	Ratio H/L nmods HeLa_CX_3h_R1
+377	Ratio H/L variability [%] HeLa_CX_3h_R1
+378	Ratio H/L count HeLa_CX_3h_R1
+379	Ratio H/L iso-count HeLa_CX_3h_R1
+380	Ratio H/L type HeLa_CX_3h_R1
+381	Occupancy L HeLa_CX_3h_R1
+382	Occupancy H HeLa_CX_3h_R1
+383	Ratio H/L HeLa_CX_3h_R2
+384	Ratio H/L HeLa_CX_3h_R2___1
+385	Ratio H/L HeLa_CX_3h_R2___2
+386	Ratio H/L HeLa_CX_3h_R2___3
+387	Ratio H/L normalized HeLa_CX_3h_R2
+388	Ratio H/L normalized HeLa_CX_3h_R2___1
+389	Ratio H/L normalized HeLa_CX_3h_R2___2
+390	Ratio H/L normalized HeLa_CX_3h_R2___3
+391	Ratio H/L unmod. pep. HeLa_CX_3h_R2
+392	Ratio H/L localized HeLa_CX_3h_R2
+393	Ratio H/L nmods HeLa_CX_3h_R2
+394	Ratio H/L variability [%] HeLa_CX_3h_R2
+395	Ratio H/L count HeLa_CX_3h_R2
+396	Ratio H/L iso-count HeLa_CX_3h_R2
+397	Ratio H/L type HeLa_CX_3h_R2
+398	Occupancy L HeLa_CX_3h_R2
+399	Occupancy H HeLa_CX_3h_R2
+400	Ratio H/L HeLa_CX_3h_R3
+401	Ratio H/L HeLa_CX_3h_R3___1
+402	Ratio H/L HeLa_CX_3h_R3___2
+403	Ratio H/L HeLa_CX_3h_R3___3
+404	Ratio H/L normalized HeLa_CX_3h_R3
+405	Ratio H/L normalized HeLa_CX_3h_R3___1
+406	Ratio H/L normalized HeLa_CX_3h_R3___2
+407	Ratio H/L normalized HeLa_CX_3h_R3___3
+408	Ratio H/L unmod. pep. HeLa_CX_3h_R3
+409	Ratio H/L localized HeLa_CX_3h_R3
+410	Ratio H/L nmods HeLa_CX_3h_R3
+411	Ratio H/L variability [%] HeLa_CX_3h_R3
+412	Ratio H/L count HeLa_CX_3h_R3
+413	Ratio H/L iso-count HeLa_CX_3h_R3
+414	Ratio H/L type HeLa_CX_3h_R3
+415	Occupancy L HeLa_CX_3h_R3
+416	Occupancy H HeLa_CX_3h_R3
+417	Ratio H/L HeLa_CX_3h_R4
+418	Ratio H/L HeLa_CX_3h_R4___1
+419	Ratio H/L HeLa_CX_3h_R4___2
+420	Ratio H/L HeLa_CX_3h_R4___3
+421	Ratio H/L normalized HeLa_CX_3h_R4
+422	Ratio H/L normalized HeLa_CX_3h_R4___1
+423	Ratio H/L normalized HeLa_CX_3h_R4___2
+424	Ratio H/L normalized HeLa_CX_3h_R4___3
+425	Ratio H/L unmod. pep. HeLa_CX_3h_R4
+426	Ratio H/L localized HeLa_CX_3h_R4
+427	Ratio H/L nmods HeLa_CX_3h_R4
+428	Ratio H/L variability [%] HeLa_CX_3h_R4
+429	Ratio H/L count HeLa_CX_3h_R4
+430	Ratio H/L iso-count HeLa_CX_3h_R4
+431	Ratio H/L type HeLa_CX_3h_R4
+432	Occupancy L HeLa_CX_3h_R4
+433	Occupancy H HeLa_CX_3h_R4
+434	Ratio H/L HeLa_CX_3h_R5
+435	Ratio H/L HeLa_CX_3h_R5___1
+436	Ratio H/L HeLa_CX_3h_R5___2
+437	Ratio H/L HeLa_CX_3h_R5___3
+438	Ratio H/L normalized HeLa_CX_3h_R5
+439	Ratio H/L normalized HeLa_CX_3h_R5___1
+440	Ratio H/L normalized HeLa_CX_3h_R5___2
+441	Ratio H/L normalized HeLa_CX_3h_R5___3
+442	Ratio H/L unmod. pep. HeLa_CX_3h_R5
+443	Ratio H/L localized HeLa_CX_3h_R5
+444	Ratio H/L nmods HeLa_CX_3h_R5
+445	Ratio H/L variability [%] HeLa_CX_3h_R5
+446	Ratio H/L count HeLa_CX_3h_R5
+447	Ratio H/L iso-count HeLa_CX_3h_R5
+448	Ratio H/L type HeLa_CX_3h_R5
+449	Occupancy L HeLa_CX_3h_R5
+450	Occupancy H HeLa_CX_3h_R5
+451	Ratio H/L HeLa_CX_3h_R6
+452	Ratio H/L HeLa_CX_3h_R6___1
+453	Ratio H/L HeLa_CX_3h_R6___2
+454	Ratio H/L HeLa_CX_3h_R6___3
+455	Ratio H/L normalized HeLa_CX_3h_R6
+456	Ratio H/L normalized HeLa_CX_3h_R6___1
+457	Ratio H/L normalized HeLa_CX_3h_R6___2
+458	Ratio H/L normalized HeLa_CX_3h_R6___3
+459	Ratio H/L unmod. pep. HeLa_CX_3h_R6
+460	Ratio H/L localized HeLa_CX_3h_R6
+461	Ratio H/L nmods HeLa_CX_3h_R6
+462	Ratio H/L variability [%] HeLa_CX_3h_R6
+463	Ratio H/L count HeLa_CX_3h_R6
+464	Ratio H/L iso-count HeLa_CX_3h_R6
+465	Ratio H/L type HeLa_CX_3h_R6
+466	Occupancy L HeLa_CX_3h_R6
+467	Occupancy H HeLa_CX_3h_R6
+468	Ratio H/L HeLa_CX_4h_R1
+469	Ratio H/L HeLa_CX_4h_R1___1
+470	Ratio H/L HeLa_CX_4h_R1___2
+471	Ratio H/L HeLa_CX_4h_R1___3
+472	Ratio H/L normalized HeLa_CX_4h_R1
+473	Ratio H/L normalized HeLa_CX_4h_R1___1
+474	Ratio H/L normalized HeLa_CX_4h_R1___2
+475	Ratio H/L normalized HeLa_CX_4h_R1___3
+476	Ratio H/L unmod. pep. HeLa_CX_4h_R1
+477	Ratio H/L localized HeLa_CX_4h_R1
+478	Ratio H/L nmods HeLa_CX_4h_R1
+479	Ratio H/L variability [%] HeLa_CX_4h_R1
+480	Ratio H/L count HeLa_CX_4h_R1
+481	Ratio H/L iso-count HeLa_CX_4h_R1
+482	Ratio H/L type HeLa_CX_4h_R1
+483	Occupancy L HeLa_CX_4h_R1
+484	Occupancy H HeLa_CX_4h_R1
+485	Ratio H/L HeLa_CX_4h_R2
+486	Ratio H/L HeLa_CX_4h_R2___1
+487	Ratio H/L HeLa_CX_4h_R2___2
+488	Ratio H/L HeLa_CX_4h_R2___3
+489	Ratio H/L normalized HeLa_CX_4h_R2
+490	Ratio H/L normalized HeLa_CX_4h_R2___1
+491	Ratio H/L normalized HeLa_CX_4h_R2___2
+492	Ratio H/L normalized HeLa_CX_4h_R2___3
+493	Ratio H/L unmod. pep. HeLa_CX_4h_R2
+494	Ratio H/L localized HeLa_CX_4h_R2
+495	Ratio H/L nmods HeLa_CX_4h_R2
+496	Ratio H/L variability [%] HeLa_CX_4h_R2
+497	Ratio H/L count HeLa_CX_4h_R2
+498	Ratio H/L iso-count HeLa_CX_4h_R2
+499	Ratio H/L type HeLa_CX_4h_R2
+500	Occupancy L HeLa_CX_4h_R2
+501	Occupancy H HeLa_CX_4h_R2
+502	Ratio H/L HeLa_CX_4h_R3
+503	Ratio H/L HeLa_CX_4h_R3___1
+504	Ratio H/L HeLa_CX_4h_R3___2
+505	Ratio H/L HeLa_CX_4h_R3___3
+506	Ratio H/L normalized HeLa_CX_4h_R3
+507	Ratio H/L normalized HeLa_CX_4h_R3___1
+508	Ratio H/L normalized HeLa_CX_4h_R3___2
+509	Ratio H/L normalized HeLa_CX_4h_R3___3
+510	Ratio H/L unmod. pep. HeLa_CX_4h_R3
+511	Ratio H/L localized HeLa_CX_4h_R3
+512	Ratio H/L nmods HeLa_CX_4h_R3
+513	Ratio H/L variability [%] HeLa_CX_4h_R3
+514	Ratio H/L count HeLa_CX_4h_R3
+515	Ratio H/L iso-count HeLa_CX_4h_R3
+516	Ratio H/L type HeLa_CX_4h_R3
+517	Occupancy L HeLa_CX_4h_R3
+518	Occupancy H HeLa_CX_4h_R3
+519	Ratio H/L HeLa_CX_4h_R4
+520	Ratio H/L HeLa_CX_4h_R4___1
+521	Ratio H/L HeLa_CX_4h_R4___2
+522	Ratio H/L HeLa_CX_4h_R4___3
+523	Ratio H/L normalized HeLa_CX_4h_R4
+524	Ratio H/L normalized HeLa_CX_4h_R4___1
+525	Ratio H/L normalized HeLa_CX_4h_R4___2
+526	Ratio H/L normalized HeLa_CX_4h_R4___3
+527	Ratio H/L unmod. pep. HeLa_CX_4h_R4
+528	Ratio H/L localized HeLa_CX_4h_R4
+529	Ratio H/L nmods HeLa_CX_4h_R4
+530	Ratio H/L variability [%] HeLa_CX_4h_R4
+531	Ratio H/L count HeLa_CX_4h_R4
+532	Ratio H/L iso-count HeLa_CX_4h_R4
+533	Ratio H/L type HeLa_CX_4h_R4
+534	Occupancy L HeLa_CX_4h_R4
+535	Occupancy H HeLa_CX_4h_R4
+536	Ratio H/L HeLa_CX_4h_R5
+537	Ratio H/L HeLa_CX_4h_R5___1
+538	Ratio H/L HeLa_CX_4h_R5___2
+539	Ratio H/L HeLa_CX_4h_R5___3
+540	Ratio H/L normalized HeLa_CX_4h_R5
+541	Ratio H/L normalized HeLa_CX_4h_R5___1
+542	Ratio H/L normalized HeLa_CX_4h_R5___2
+543	Ratio H/L normalized HeLa_CX_4h_R5___3
+544	Ratio H/L unmod. pep. HeLa_CX_4h_R5
+545	Ratio H/L localized HeLa_CX_4h_R5
+546	Ratio H/L nmods HeLa_CX_4h_R5
+547	Ratio H/L variability [%] HeLa_CX_4h_R5
+548	Ratio H/L count HeLa_CX_4h_R5
+549	Ratio H/L iso-count HeLa_CX_4h_R5
+550	Ratio H/L type HeLa_CX_4h_R5
+551	Occupancy L HeLa_CX_4h_R5
+552	Occupancy H HeLa_CX_4h_R5
+553	Ratio H/L HeLa_CX_4h_R6
+554	Ratio H/L HeLa_CX_4h_R6___1
+555	Ratio H/L HeLa_CX_4h_R6___2
+556	Ratio H/L HeLa_CX_4h_R6___3
+557	Ratio H/L normalized HeLa_CX_4h_R6
+558	Ratio H/L normalized HeLa_CX_4h_R6___1
+559	Ratio H/L normalized HeLa_CX_4h_R6___2
+560	Ratio H/L normalized HeLa_CX_4h_R6___3
+561	Ratio H/L unmod. pep. HeLa_CX_4h_R6
+562	Ratio H/L localized HeLa_CX_4h_R6
+563	Ratio H/L nmods HeLa_CX_4h_R6
+564	Ratio H/L variability [%] HeLa_CX_4h_R6
+565	Ratio H/L count HeLa_CX_4h_R6
+566	Ratio H/L iso-count HeLa_CX_4h_R6
+567	Ratio H/L type HeLa_CX_4h_R6
+568	Occupancy L HeLa_CX_4h_R6
+569	Occupancy H HeLa_CX_4h_R6
+570	Intensity
+571	Intensity L
+572	Intensity H
+573	Ratio mod/base L
+574	Ratio mod/base H
+575	Intensity HeLa_CX_1h_R1
+576	Intensity L HeLa_CX_1h_R1
+577	Intensity H HeLa_CX_1h_R1
+578	Ratio mod/base L HeLa_CX_1h_R1
+579	Ratio mod/base H HeLa_CX_1h_R1
+580	Intensity HeLa_CX_1h_R2
+581	Intensity L HeLa_CX_1h_R2
+582	Intensity H HeLa_CX_1h_R2
+583	Ratio mod/base L HeLa_CX_1h_R2
+584	Ratio mod/base H HeLa_CX_1h_R2
+585	Intensity HeLa_CX_1h_R3
+586	Intensity L HeLa_CX_1h_R3
+587	Intensity H HeLa_CX_1h_R3
+588	Ratio mod/base L HeLa_CX_1h_R3
+589	Ratio mod/base H HeLa_CX_1h_R3
+590	Intensity HeLa_CX_1h_R4
+591	Intensity L HeLa_CX_1h_R4
+592	Intensity H HeLa_CX_1h_R4
+593	Ratio mod/base L HeLa_CX_1h_R4
+594	Ratio mod/base H HeLa_CX_1h_R4
+595	Intensity HeLa_CX_1h_R5
+596	Intensity L HeLa_CX_1h_R5
+597	Intensity H HeLa_CX_1h_R5
+598	Ratio mod/base L HeLa_CX_1h_R5
+599	Ratio mod/base H HeLa_CX_1h_R5
+600	Intensity HeLa_CX_1h_R6
+601	Intensity L HeLa_CX_1h_R6
+602	Intensity H HeLa_CX_1h_R6
+603	Ratio mod/base L HeLa_CX_1h_R6
+604	Ratio mod/base H HeLa_CX_1h_R6
+605	Intensity HeLa_CX_2h_R1
+606	Intensity L HeLa_CX_2h_R1
+607	Intensity H HeLa_CX_2h_R1
+608	Ratio mod/base L HeLa_CX_2h_R1
+609	Ratio mod/base H HeLa_CX_2h_R1
+610	Intensity HeLa_CX_2h_R2
+611	Intensity L HeLa_CX_2h_R2
+612	Intensity H HeLa_CX_2h_R2
+613	Ratio mod/base L HeLa_CX_2h_R2
+614	Ratio mod/base H HeLa_CX_2h_R2
+615	Intensity HeLa_CX_2h_R3
+616	Intensity L HeLa_CX_2h_R3
+617	Intensity H HeLa_CX_2h_R3
+618	Ratio mod/base L HeLa_CX_2h_R3
+619	Ratio mod/base H HeLa_CX_2h_R3
+620	Intensity HeLa_CX_2h_R4
+621	Intensity L HeLa_CX_2h_R4
+622	Intensity H HeLa_CX_2h_R4
+623	Ratio mod/base L HeLa_CX_2h_R4
+624	Ratio mod/base H HeLa_CX_2h_R4
+625	Intensity HeLa_CX_2h_R5
+626	Intensity L HeLa_CX_2h_R5
+627	Intensity H HeLa_CX_2h_R5
+628	Ratio mod/base L HeLa_CX_2h_R5
+629	Ratio mod/base H HeLa_CX_2h_R5
+630	Intensity HeLa_CX_2h_R6
+631	Intensity L HeLa_CX_2h_R6
+632	Intensity H HeLa_CX_2h_R6
+633	Ratio mod/base L HeLa_CX_2h_R6
+634	Ratio mod/base H HeLa_CX_2h_R6
+635	Intensity HeLa_CX_3h_R1
+636	Intensity L HeLa_CX_3h_R1
+637	Intensity H HeLa_CX_3h_R1
+638	Ratio mod/base L HeLa_CX_3h_R1
+639	Ratio mod/base H HeLa_CX_3h_R1
+640	Intensity HeLa_CX_3h_R2
+641	Intensity L HeLa_CX_3h_R2
+642	Intensity H HeLa_CX_3h_R2
+643	Ratio mod/base L HeLa_CX_3h_R2
+644	Ratio mod/base H HeLa_CX_3h_R2
+645	Intensity HeLa_CX_3h_R3
+646	Intensity L HeLa_CX_3h_R3
+647	Intensity H HeLa_CX_3h_R3
+648	Ratio mod/base L HeLa_CX_3h_R3
+649	Ratio mod/base H HeLa_CX_3h_R3
+650	Intensity HeLa_CX_3h_R4
+651	Intensity L HeLa_CX_3h_R4
+652	Intensity H HeLa_CX_3h_R4
+653	Ratio mod/base L HeLa_CX_3h_R4
+654	Ratio mod/base H HeLa_CX_3h_R4
+655	Intensity HeLa_CX_3h_R5
+656	Intensity L HeLa_CX_3h_R5
+657	Intensity H HeLa_CX_3h_R5
+658	Ratio mod/base L HeLa_CX_3h_R5
+659	Ratio mod/base H HeLa_CX_3h_R5
+660	Intensity HeLa_CX_3h_R6
+661	Intensity L HeLa_CX_3h_R6
+662	Intensity H HeLa_CX_3h_R6
+663	Ratio mod/base L HeLa_CX_3h_R6
+664	Ratio mod/base H HeLa_CX_3h_R6
+665	Intensity HeLa_CX_4h_R1
+666	Intensity L HeLa_CX_4h_R1
+667	Intensity H HeLa_CX_4h_R1
+668	Ratio mod/base L HeLa_CX_4h_R1
+669	Ratio mod/base H HeLa_CX_4h_R1
+670	Intensity HeLa_CX_4h_R2
+671	Intensity L HeLa_CX_4h_R2
+672	Intensity H HeLa_CX_4h_R2
+673	Ratio mod/base L HeLa_CX_4h_R2
+674	Ratio mod/base H HeLa_CX_4h_R2
+675	Intensity HeLa_CX_4h_R3
+676	Intensity L HeLa_CX_4h_R3
+677	Intensity H HeLa_CX_4h_R3
+678	Ratio mod/base L HeLa_CX_4h_R3
+679	Ratio mod/base H HeLa_CX_4h_R3
+680	Intensity HeLa_CX_4h_R4
+681	Intensity L HeLa_CX_4h_R4
+682	Intensity H HeLa_CX_4h_R4
+683	Ratio mod/base L HeLa_CX_4h_R4
+684	Ratio mod/base H HeLa_CX_4h_R4
+685	Intensity HeLa_CX_4h_R5
+686	Intensity L HeLa_CX_4h_R5
+687	Intensity H HeLa_CX_4h_R5
+688	Ratio mod/base L HeLa_CX_4h_R5
+689	Ratio mod/base H HeLa_CX_4h_R5
+690	Intensity HeLa_CX_4h_R6
+691	Intensity L HeLa_CX_4h_R6
+692	Intensity H HeLa_CX_4h_R6
+693	Ratio mod/base L HeLa_CX_4h_R6
+694	Ratio mod/base H HeLa_CX_4h_R6
+695	Occupancy HeLa_CX_1h_R1
+696	Occupancy ratioHeLa_CX_1h_R1
+697	Occupancy error scale HeLa_CX_1h_R1
+698	Occupancy HeLa_CX_1h_R2
+699	Occupancy ratioHeLa_CX_1h_R2
+700	Occupancy error scale HeLa_CX_1h_R2
+701	Occupancy HeLa_CX_1h_R3
+702	Occupancy ratioHeLa_CX_1h_R3
+703	Occupancy error scale HeLa_CX_1h_R3
+704	Occupancy HeLa_CX_1h_R4
+705	Occupancy ratioHeLa_CX_1h_R4
+706	Occupancy error scale HeLa_CX_1h_R4
+707	Occupancy HeLa_CX_1h_R5
+708	Occupancy ratioHeLa_CX_1h_R5
+709	Occupancy error scale HeLa_CX_1h_R5
+710	Occupancy HeLa_CX_1h_R6
+711	Occupancy ratioHeLa_CX_1h_R6
+712	Occupancy error scale HeLa_CX_1h_R6
+713	Occupancy HeLa_CX_2h_R1
+714	Occupancy ratioHeLa_CX_2h_R1
+715	Occupancy error scale HeLa_CX_2h_R1
+716	Occupancy HeLa_CX_2h_R2
+717	Occupancy ratioHeLa_CX_2h_R2
+718	Occupancy error scale HeLa_CX_2h_R2
+719	Occupancy HeLa_CX_2h_R3
+720	Occupancy ratioHeLa_CX_2h_R3
+721	Occupancy error scale HeLa_CX_2h_R3
+722	Occupancy HeLa_CX_2h_R4
+723	Occupancy ratioHeLa_CX_2h_R4
+724	Occupancy error scale HeLa_CX_2h_R4
+725	Occupancy HeLa_CX_2h_R5
+726	Occupancy ratioHeLa_CX_2h_R5
+727	Occupancy error scale HeLa_CX_2h_R5
+728	Occupancy HeLa_CX_2h_R6
+729	Occupancy ratioHeLa_CX_2h_R6
+730	Occupancy error scale HeLa_CX_2h_R6
+731	Occupancy HeLa_CX_3h_R1
+732	Occupancy ratioHeLa_CX_3h_R1
+733	Occupancy error scale HeLa_CX_3h_R1
+734	Occupancy HeLa_CX_3h_R2
+735	Occupancy ratioHeLa_CX_3h_R2
+736	Occupancy error scale HeLa_CX_3h_R2
+737	Occupancy HeLa_CX_3h_R3
+738	Occupancy ratioHeLa_CX_3h_R3
+739	Occupancy error scale HeLa_CX_3h_R3
+740	Occupancy HeLa_CX_3h_R4
+741	Occupancy ratioHeLa_CX_3h_R4
+742	Occupancy error scale HeLa_CX_3h_R4
+743	Occupancy HeLa_CX_3h_R5
+744	Occupancy ratioHeLa_CX_3h_R5
+745	Occupancy error scale HeLa_CX_3h_R5
+746	Occupancy HeLa_CX_3h_R6
+747	Occupancy ratioHeLa_CX_3h_R6
+748	Occupancy error scale HeLa_CX_3h_R6
+749	Occupancy HeLa_CX_4h_R1
+750	Occupancy ratioHeLa_CX_4h_R1
+751	Occupancy error scale HeLa_CX_4h_R1
+752	Occupancy HeLa_CX_4h_R2
+753	Occupancy ratioHeLa_CX_4h_R2
+754	Occupancy error scale HeLa_CX_4h_R2
+755	Occupancy HeLa_CX_4h_R3
+756	Occupancy ratioHeLa_CX_4h_R3
+757	Occupancy error scale HeLa_CX_4h_R3
+758	Occupancy HeLa_CX_4h_R4
+759	Occupancy ratioHeLa_CX_4h_R4
+760	Occupancy error scale HeLa_CX_4h_R4
+761	Occupancy HeLa_CX_4h_R5
+762	Occupancy ratioHeLa_CX_4h_R5
+763	Occupancy error scale HeLa_CX_4h_R5
+764	Occupancy HeLa_CX_4h_R6
+765	Occupancy ratioHeLa_CX_4h_R6
+766	Occupancy error scale HeLa_CX_4h_R6
+767	Reverse
+768	Potential contaminant
+769	id
+770	Protein group IDs
+771	Positions
+772	Position
+773	Peptide IDs
+774	Mod. peptide IDs
+775	Evidence IDs
+776	MS/MS IDs
+777	Best localization evidence ID
+778	Best localization MS/MS ID
+779	Best localization raw file
+780	Best localization scan number
+781	Best score evidence ID
+782	Best score MS/MS ID
+783	Best score raw file
+784	Best score scan number
+785	Best PEP evidence ID
+786	Best PEP MS/MS ID
+787	Best PEP raw file
+788	Best PEP scan number

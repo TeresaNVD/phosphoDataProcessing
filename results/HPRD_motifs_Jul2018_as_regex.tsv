@@ -1,0 +1,176 @@
+Kinase	HPRD motif as regex
+Akt kinase	R.R..[ST][FL]
+Akt kinase	R.R..[ST]
+Akt kinase	GRART[ST]SFAE
+Akt kinase	[RQK][RKNQPH][RK][RST][NKQHDP]S[FWIMNS][STH][RSK][STPQ]
+Akt kinase	[RK].[RK][ST].S
+AMP-activated protein kinase	[MVLIF][RKH]...[ST]...[MVLIF]
+AMP-activated protein kinase	[MVLI]..[RKH].[ST]...[MVLI]
+AMP-activated protein kinase	[MVLIF][RKH]..[ST]...[MVLIF]
+AMP-activated protein kinase 2	[RK].R..S...[RK]
+ATM kinase	[PLIM].[LIDE]SQ
+ATM kinase	LSQE
+ATM kinase	SQ
+Aurora-A kinase	[RKN]R.[ST][MLVI]
+b-Adrenergic Receptor kinase	[DE][ST]... 
+Branched chain alpha-ketoacid dehydrogenase kinase	HSTSDD 
+Branched chain alpha-ketoacid dehydrogenase kinase	YRSVDE
+Calmodulin-dependent protein kinase I	[MVLIF].R..[ST]...[MVLIF]
+Calmodulin-dependent protein kinase II alpha	[MILVFY].R..[ST][MILVFY]
+Calmodulin-dependent protein kinase II	R..[ST]
+Calmodulin-dependent protein kinase II	[KF][RK][QM][QMKLF]S[FIMLV][DEI][LMKI][FK]
+Calmodulin-dependent protein kinase II	[MVLIF].[RK]..[ST]..
+Calmodulin-dependent protein kinase II	R..S
+Calmodulin-dependent protein kinase IV	VPGKARKKSSCQLL
+Calmodulin-dependent protein kinase IV	PLARTLSVAGLP
+Calmodulin-dependent protein kinase IV	[MILVFY].R..[ST]
+Casein Kinase I delta	E[FE]D[TAG]GSI[IFYG][IGF][FG][FPL]
+Casein Kinase I gamma	Y[YE][DY][AD][AG]SI[IYFG][IGF][FG][FPL]
+Casein Kinase I	SP..[ST]
+Casein Kinase I	[DE]..[ST]
+Casein Kinase I	[ST]..[ST]
+Casein Kinase I	[ST]...[ST][MLVIF]
+Casein Kinase II	[EDA][DE][ED][ED]S[EDA][DEA][ED][ED]
+Casein Kinase II	S.[EST]
+Casein Kinase II	S..[EST]
+Casein Kinase II	[ST]..[ED]
+Casein kinase II	SD.E
+Casein kinase II	S..[ED]
+Casein Kinase II	S[DE].[DE].[DE]
+Casein Kinase II	[DE]S[DE].[DE]
+Casein Kinase II	S[DE][DE][DE]
+Casein Kinase II 	[ST]..[DE]
+Casein Kinase II 	[ST]..[EDSY]
+Casein Kinase II 	[SEPG][DSNEP][EDGQW][YEDSWT][WED]S[DE][DEWN][ED][EDNQ]
+Cdc2 kinase	[RK]SP[RP][RKH]
+Cdc2 kinase	[ST]P.[RK]
+Cdc2 kinase	HHH[RK]SPR[RK]R
+Cdc2 like protein kinase	P.[ST]PKK.KK
+CDK1,2, 4, 6 kinase	[ST]P.[RK]
+CDK kinase	SP.[RK].
+CDK4 kinase	PL[ST]PIP[KRH]
+CDK4 kinase	PL[ST]P.[KRH] 
+CDK5 kinase	TP.K
+CDK5 kinase	[KHG]H[HP][KGH]SP[RK][HRK][RHK]
+CDK5 kinase	[ST]PG[ST]PGTP
+Chk1 kinase	[MILV].[RK]..[ST]
+CLK1 kinase	R..[ST]..R
+CLK1,2 kinase	[RK].[RK].[RK].S..R
+CLK2 kinase	R[RH][RH][RE]RE[RH]SR[RD]L
+DMPK1 kinase	KK.RRT[LV].
+DMPK1 kinase	KKR.RT[LV].
+DMPK1 kinase	[RK].RR.[ST][LV].
+DMPK1,2 kinase	R..[ST][LV]R
+DNA dependent Protein kinase	.SQ
+DNA dependent Protein kinase	P[ST].
+DOA/CDC-like kinase 2	R[RK]R[ER]R[EA][HR]SRR[RD][LE]
+Doublecortin kinase-1 kinase	[ILVFM]RR..[ST][ILMVF]
+elF2 alpha kinase	E.S.R..R
+ERK1 kinase	[TPS][GPEY][PLI][LMP]SP[GPF][PFGY][FYI]
+ERK1 Kinase	TEY
+ERK1,2 kinase	P.[ST]PP
+ERK1,2 kinase	..P.[ST]PPP.
+ERK1, ERK2 Kinase	P.[ST]P
+ERK1, ERK2 Kinase	SP
+ERK1, ERK2, SAPK, CDK5 and GSK3 kinase	KSPP
+ERK2 kinase	[DYWE][C][PSCE][PCSLTV][LMT]S[PA][TSGRCF][WPS][WF]
+G protein-coupled receptor kinase 1	..[ST]E
+G protein-coupled receptor kinase 1	.[ST]...[APST] 
+Growth associated histone HI kinase	[ST]P.[KR]
+Growth associated histone HI kinase	[KR][ST]P
+Growth associated histone HI kinase	[ST]P[KR]
+GSK3 kinase	S...S
+GSK3, Erk1, Erk2 and CDK5 kinase motif	P.TP
+GSK-3, ERK1, ERK2, CDK5	R..SPV
+GSK-3, ERK1, ERK2, CDK5	K[ST]P.K
+GSK-3, ERK1, ERK2, CDK5	KSP...K
+GSK-3, ERK1, ERK2, CDK5	KSP..K
+GSK-3, ERK1, ERK2, CDK5	KSP....K
+GSK-3, ERK1, ERK2, CDK5	KTPAKEE
+GSK-3, ERK1, ERK2, CDK5	P.SP
+GSK-3, ERK1, ERK2, CDK5	.[ST]P
+GSK-3, ERK1, ERK2, CDK5	..SP
+HMGCoA Reductase kinase	[MLVIF][RKH]..S...[MLVIF]
+JNK1 Kinase	GP[QM]SPI
+LKB1 Kinase	LRT
+MAPKAPK1 kinase	[RK].R..S
+MAPKAPK1 kinase	RRR.S
+MAPKAPK2 kinase	[LFI]...R[QST]L[[ST][MLIV]
+MAPKAPK2 kinase	..B.R..S..
+MAPKAPK2 kinase	S...[ST]
+MAPK 11,13,14 Kinase	T[GPE]Y
+MEKK kinase	RRFGSBRRF
+MEKK kinase	RRFGS[MLVIF]RR[MLVIF]
+MLCK kinase	KKR..S.[RK][RK]
+mTOR kinase	FTY
+Nek 2 kinase	IRRLSTRRR
+NIMA kinase	[RN][FLM][RK][RK]S[RIVM][RIMV][MIFV][IFM]
+NIMA kinase	FR.[ST]
+NIMA kinase	RF[RK][RK]S[RI][RI]MI
+p70 Ribosomal S6 kinase	[RK].R..[ST][MLVI]
+p70 Ribosomal S6 kinase	VFLGFTYVAP
+PAK1 kinase	AKRRRLSSLRA
+PAK1 kinase	VRKRTLRRL
+PAK2 kinase	[RK][R.].[ST]
+PDK1 kinase	F..F[ST][FY]
+Phosphorylase kinase	KRKQISVR
+Phosphorylase kinase	[FMK][RK][MRQF][MFLI]S[FIML][FRK][LI][FLI]
+Phosphorylase kinase	[KR]..S[VI]
+Pim1 kinase substrate sequence	[RK][RK][RK].[ST].
+Pim2 kinase substrate sequence	[RK][RKAQP][RK][RQHNY][PHK]S[GST][PSGQHST][SPQGD][TSPG]
+PKA kinase	RR.S[MILVFY]
+PKA kinase	R.S
+PKA kinase	KR..S
+PKA kinase	R..S
+PKA kinase	[RK].[ST]
+PKA kinase	K..[ST]
+PKA kinase	[RK][RK].[ST]
+PKA kinase	K...[ST]
+PKA kinase	[ST].[RK]
+PKA kinase	RRRRSIIFI
+PKA kinase	RR.S
+PKA kinase	R[RK].[ST][ILVFY][DC.].D
+PKA kinase	RR.S
+PKA kinase	RRR[RN]SII[FD]
+PKA kinase	[RCPK][RAP][RK][RKS][NLSMP]Ps[ILVC][SPHQ][SWQ][SLG]
+PKA, PKG kinase	R[RK].[ST]B
+PKC alpha kinase	ARKGSLRQ
+PKC alpha kinase	R[RF]RR[RK]GSF[RK][RK]
+PKC beta kinase	[LRF][RK]R[KQ]GS[FM]KK.A
+PKC delta kinase	R.RKGSF
+PKC epsilon kinase	KRQGSVRR
+PKC epsilon kinase	R[KER].S
+PKC eta kinase	AR..R[RK]RSFRR
+PKC family kinase	F..F[ST][FY]
+PKC gamma kinase	RRRK[GK]SF[RK][RK]KA
+PKC kinase	.R..[ST].R.
+PKC kinase	[ST].[RK]
+PKC kinase	[RK]..[ST]
+PKC kinase	[RK]..[ST].[RK]
+PKC kinase	[KR].[ST]
+PKC kinase	[RK].[ST].[RK]
+PKC mu kinase	[LV][VLA]R[QKE]MS
+PKC theta kinase	[RFWM][WAKS][RSKH][RHSQ][RKNPGQ]S[IFRVKSLM][KMRST][RSKW][RKG]
+PKC zeta kinase	F.R..S[FM][FM]
+PKD kinase	[LVI][RKQ][RK][RKTQM][NKRLMH]S[FWIMLV][SN][RSPYW][SRNL]
+PKG kinase	R[RK].[ST]B
+PKR kinase	R..[ST].R..R
+Plk1 kinase	[DE].[ST][ILVM].[DE]
+Pyruvate dehydrogenase kinase	.S..D..
+RAF1 kinase	PLTLP
+RAF1 kinase	PLLTP
+RAF1 kinase	PLTP
+RAF1 kinase	PTLP
+RAF1 kinase	PLTLP
+RAF1 kinase	PTLP
+RAF1 kinase	LTP
+TGF beta receptor kinase	KKKKKK[ST]...
+TGF beta receptor kinase	[RKQN][MCW][RTSN][EDSN][RKEDN]S[SDE][SGCD][SMRN][NHSRC]
+ZIP kinase	RR..S
+ZIP kinase	KR.RS
+ZIP kinase	KRR.T
+Dual specificity protein phosphatase 1	TEY
+Dual specificity protein phosphatase 6	T.Y
+PP2A, PP2C	RRA[ST]VA
+PP2B	.R..SVA
+PP2C delta	.T.Y.
